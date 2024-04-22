@@ -27,7 +27,7 @@ body {
     left: 0;
 }
 
-.flights-table {
+#flights-table {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
