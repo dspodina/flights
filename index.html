@@ -7,20 +7,20 @@
         <title>Flights table</title>
     </head>
     <body>
-        <div class="header-background">
+        <header class="header-background">
             <img src="./assets/flight.jpeg" alt="" />
-        </div>
-        <div id="parent">
-            <div class="flights-title">
-                <div class="name">Name</div>
-                <div class="plane">Plane</div>
-                <div class="departure-date">Departure Date</div>
-                <div class="origin">Origin</div>
-                <div class="arrival-date">Arrival Date</div>
-                <div class="destination">Destination</div>
-                <div class="stops">Stops</div>
-            </div>
-        </div>
+        </header>
+        <section id="flights-wrapper">
+            <ul class="flight">
+                <li class="name">Name</li>
+                <li class="plane">Plane</li>
+                <li class="departure">Departure</li>
+                <li class="origin">Origin</li>
+                <li class="arrival">Arrival</li>
+                <li class="destination">Destination</li>
+                <li class="stops">Stops</li>
+            </ul>
+        </section>
         <script type="module" src="./src/init.js"></script>
     </body>
 </html>

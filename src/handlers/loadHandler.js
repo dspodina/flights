@@ -7,7 +7,7 @@ const loadHandler = () => {
     const sortedData = sortFlights(data);
     sortedData.forEach((flight) => {
         const flightSchedule = addFlight(flight);
-        dom.parent.appendChild(flightSchedule);
+        dom.flightsWrapper.appendChild(flightSchedule);
     });
 };
 

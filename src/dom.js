@@ -1,5 +1,5 @@
 const dom = {
-    parent: document.getElementById('parent'),
+    flightsWrapper: document.getElementById('flights-wrapper'),
 };
 
 export default dom;
