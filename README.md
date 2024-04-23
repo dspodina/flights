@@ -1,57 +1,20 @@
-# Image gallery
+# Flight Schedule App
 
-> A simple
-
-## Table of contents
-
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
-
-## General info
-
-> The objective of the project is to practice separation of concern in
-> JavaScript.
-
-## Screenshots
-
-![Example screenshot]()
-
-## Technologies
-
-- JavaScript
-- HTML5
-- CSS3
-- VSC code
-
-## Setup
-
-clone the repo and start using the stop watch.
-
-## Code Examples
-
-```js
-
-```
+This is a simple flight schedule application that allows users to view upcoming flights.
 
 ## Features
 
-List of features ready and Todos for future development
+- View list of upcoming flights
 
--
--
--
+## Technologies Used
 
-To-do list:
+- HTML
+- CSS
+- JavaScript
 
--
--
+## Getting Started
 
-## Status
+To get started with the application:
 
-Project is: _in progress_
+1. Clone this repository to your local machine.
+2. Open index.html in your web browser.
