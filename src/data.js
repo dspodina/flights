@@ -68,7 +68,7 @@ const data = {
             origin: 'DAC',
             arrivalDate: '2023-08-30 15:40:00',
             destination: 'CGP',
-            stops: 10,
+            stops: 1,
         },
         {
             id: 8,
@@ -78,7 +78,7 @@ const data = {
             origin: 'DAC',
             arrivalDate: '2023-08-30 15:40:00',
             destination: 'CGP',
-            stops: 10,
+            stops: 1,
         },
     ],
 };
